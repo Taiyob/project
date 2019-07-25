@@ -4,10 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/routes/web.php" line="16" mnemonic="2" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afedbea0-9a79-44cf-b7cf-5845c3e6f3a4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql" beforeDir="false" />
-    </list>
+    <list default="true" id="afedbea0-9a79-44cf-b7cf-5845c3e6f3a4" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -222,15 +219,16 @@
       <workItem from="1564017307748" duration="1270000" />
       <workItem from="1564018623490" duration="1846000" />
       <workItem from="1564021778927" duration="2428000" />
-      <workItem from="1564028633739" duration="1006000" />
+      <workItem from="1564028633739" duration="3232000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25501000" />
+    <option name="totallyTimeSpent" value="27727000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="74" y="13" width="1291" height="685" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21039805" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -245,7 +243,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.932971" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.932971" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
